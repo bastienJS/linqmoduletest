@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import * as Enumerable from 'linq-es2015'; // That worked with angular 2 Beta17 and angular cli using systemJS
-// I also tried: import { asEnumerable } from 'linq-es2015'; does not work either
+import * as Enumerable from 'linq-es2015'; 
 
 @Component({
   selector: 'app-root',
