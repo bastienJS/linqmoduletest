@@ -17,7 +17,7 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": ["../node_modules/linq-es2015/dist/linq.js"],
+      "scripts": [],
       "environments": {
         "source": "environments/environment.ts",
         "dev": "environments/environment.ts",
